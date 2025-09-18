@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<equipo>
+  <jugador dorsal="10" nombre="Alex">
+	<posicion>Delantero</posicion>
+  </jugador>
+  <jugador dorsal="1" nombre="Sam">
+    <posicion>Portero</posicion>
+  </jugador>
+</equipo>
